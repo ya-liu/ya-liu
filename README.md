@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ya-liu
+- 👋 Hi, I’m Ya.
 - 👀 I’m interested in JavaScript, Python, and SQL...
 - 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on web development.
