@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ya.
 - 👀 I’m interested in JavaScript, React, node.js, Python...
-- 🌱 I’m currently learning GraphQL.
+- 🌱 I’m currently learning Next.js.
 - 💞️ I’m looking to collaborate on web development.
 
 <!---
