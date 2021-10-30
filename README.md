@@ -1,4 +1,4 @@
-# Hi, I’m Ya 👋
+# 👋 Hello, I’m Ya
 
 ### Contact Me
 
@@ -9,6 +9,7 @@
 - I am a full-stack software engineer.
 - I was trained in clinical psychology, but found my passion for technology and software development after using Woebot, which is based on CBT techniques. I hope to build applications to improve the quality of life for users.
 - I am looking to collaborate on web development.
+- I was voted "Most Likely to Document the Documentation" by my peers.
 
 ### Technologies
 
