@@ -71,4 +71,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![Ya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ya-liu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ya-liu&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
