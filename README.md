@@ -71,7 +71,5 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![Ya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ya-liu&hide=stars,issues&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ya-liu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ya-liu&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
